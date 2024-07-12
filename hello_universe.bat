@@ -1,3 +1,3 @@
 @echo off
-dir
+echo Hello, Universe!
 pause
