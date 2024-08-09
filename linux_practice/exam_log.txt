@@ -1,0 +1,40 @@
+    1  help
+    2  cd ~/linux_practice
+    3  mkdir linux_practice
+    4  cd linux_practice
+    5  touch notes.txt
+    6  ls >>t
+    7  cat t
+    8  echo "Hello, Linux" > t
+    9  echo "This is a practical exam." > t
+   10  headfile1.txt
+   11  head-n l t
+   12  head_n l t
+   13  head -n l t
+   14  head -n 1 t
+   15  tail -n 1 t
+   16  mkdir subdir
+   17  mv notes.txt subdir
+   18  mv subdir practice_subd
+   19  cp practice_subdir/notes.txt.
+   20  practice_subdir/notes.txt
+   21  practice_subdir/notes.txt .
+   22  ls -l practice_subdir/notes.txt
+   23  chmod 644 practice_subdir/notes.txt
+   24  ls practice_subdir
+   25  mkdir practice_subdir
+   26  touch practice_subdir/notes.txt
+   27  ls practice_subdir
+   28  mv practice_subdir/notes.txt .
+   29  mv practice_subdir practice_subdir_renamed
+   30  cp notes.txt practice_subdir_renamed/
+   31  date
+   32  uptime
+   33  du -sh ~
+   34  cat /etc/os-release
+   35  ssh -V
+   36  php-v
+   37  php -v
+   38  pkg install php
+   39  git checkout -b finalexam
+   40  history > exam_log.txt
